@@ -27,4 +27,4 @@ At the end of this workshop, you will be able to:
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources
-* [Link to slides](https://docs.google.com/presentation/d/1Cz2nIAY_LhLuwuB73Lt8KcSKLEbTd_7aD8YWQrEY0X8/edit?usp=sharing)
+* [Link to slides](https://docs.google.com/presentation/d/1HDwx7l3UmmDK5k7trCmJs7jjwXX2hKLxXpo6V2MThlk/edit?usp=sharing)
