@@ -28,3 +28,4 @@ At the end of this workshop, you will be able to:
 
 ## Resources
 * [Link to slides](https://docs.google.com/presentation/d/1HDwx7l3UmmDK5k7trCmJs7jjwXX2hKLxXpo6V2MThlk/edit?usp=sharing)
+* [Link to handout](https://ubc-library-rc.github.io/research-workflows-digital-storytelling/content/resource-handout.html)
