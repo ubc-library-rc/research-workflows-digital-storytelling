@@ -4,7 +4,7 @@ title: Outline
 nav_order: 1
 ---
 
-## Note: this workshop is in development and not yet complete.
+## Research Workflows & Data Management for Digital Storytelling
 
 This workshop provides a survey of tools, strategies, and best practices related to data workflow and management for digital storytelling projects. We will discuss the wide variety of file types digital storytellers make use of, from audio and text files to 4K video and those related to AR and VR applications and gaming projects. Special attention will be paid to working with community partners and the UBC resources available to support collaborative Digital Scholarship.
 
