@@ -15,7 +15,7 @@ This workshop is offered through the Community Engaged Documentation and Researc
 At the end of this workshop, you will be able to:
 1. Identify core considerations when setting up a digital storytelling project,
 2. Articulate best practices around file formats and workflow tools,
-3. Identify supports at UBC to help with this work. 
+3. Identify supports at UBC to help with this work.
 
 ## Schedule
 
@@ -27,4 +27,4 @@ At the end of this workshop, you will be able to:
 | 1:00 | Wrap-up and Discussion |
 
 ## Resources
-* [eg. link to external slides]
+* [Link to slides](https://docs.google.com/presentation/d/1Cz2nIAY_LhLuwuB73Lt8KcSKLEbTd_7aD8YWQrEY0X8/edit?usp=sharing)
