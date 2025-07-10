@@ -1,4 +1,4 @@
-# Research workflows and data management for digital storytelling
+# Research Workflows & Data Management for Digital Storytelling
 ### UBC Library Research Commons
  
 Link to workshop: https://ubc-library-rc.github.io/research-workflows-digital-storytelling/
